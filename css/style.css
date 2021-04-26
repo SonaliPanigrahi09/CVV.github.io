@@ -1,0 +1,15 @@
+
+html {height: 100%;}
+body
+{  background-color:#eaf6f6;}
+hr{border-width:7px;
+    border-style: dotted none none; 
+    border-color:grey;
+    width: 6%;}
+img { height: 250px; width: 250px; border-radius: 50%;}
+.color{color:#66bfbf;}
+.image{background: url(so.jpg);
+    height: 100vh;
+    }
+
+   
